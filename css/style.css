@@ -1,0 +1,26 @@
+.container {
+	width: 300px;
+	margin: 30px auto;
+	text-align: center;
+}
+
+.calc {
+	width: 275px;
+	padding: 25px 0 10px 0;
+	margin: 15px auto;
+	border: 1px solid #E5E5E5;
+}
+		
+input[type="text"] {
+	height: 45px;
+	padding: 8px 12px;
+	font-size: 18px;
+}
+
+.span1 { width: 65px; margin-left: 20px; }
+
+input.span3 { 
+	width: 235px;
+}
+
+.row { margin: 15px 0; }
